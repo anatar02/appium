@@ -1,0 +1,48 @@
+Last login: Tue Mar  8 21:50:54 on ttys003
+f45c89a5528f:~ lmn490$ abd devices
+-bash: abd: command not found
+f45c89a5528f:~ lmn490$ adb devices
+List of devices attached
+emulator-5554	device
+
+f45c89a5528f:~ lmn490$ adb devices
+List of devices attached
+cdd6cb5c	device
+emulator-5554	device
+
+f45c89a5528f:~ lmn490$ adb devices
+List of devices attached
+cdd6cb5c	device
+emulator-5554	device
+
+f45c89a5528f:~ lmn490$ vim ~/.android/adb_usb.ini
+
+[1]+  Stopped                 vim ~/.android/adb_usb.ini
+f45c89a5528f:~ lmn490$ vim ~/.android/adb_usb.ini
+
+
+
+# ANDROID 3RD PARTY USB VENDOR ID LIST -- DO NOT EDIT.
+# USE 'android update adb' TO GENERATE. 
+# 1 USB VENDOR ID PER LINE.
+0x04e8  (Samsung Electronics Co., Ltd.)
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
